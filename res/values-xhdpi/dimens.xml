@@ -1,0 +1,13 @@
+<resources>
+
+    <dimen name="margin_t">30dp</dimen>
+    <dimen name="base_height">450dp</dimen>
+    <dimen name="bottom_margin">90dp</dimen>
+    <dimen name="grid_width">180dp</dimen>
+    <dimen name="grid_height">240dp</dimen>
+    <dimen name="img_width">170dp</dimen>
+    <dimen name="img_height">235dp</dimen>
+    <dimen name="divider_top">20dp</dimen>
+    
+
+</resources>

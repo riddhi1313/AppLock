@@ -1,0 +1,6 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/ch7_number_presed" android:state_pressed="true"></item>
+    <item android:drawable="@drawable/ch7_number_unpresed" android:state_pressed="false"></item>
+
+</selector>

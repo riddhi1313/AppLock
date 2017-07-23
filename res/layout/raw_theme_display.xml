@@ -1,0 +1,13 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/grid_width"
+    android:layout_height="@dimen/grid_height" >
+
+    <ImageView
+        android:id="@+id/item_image"
+        android:layout_width="@dimen/img_width"
+        android:layout_height="@dimen/img_height"
+        android:scaleType="fitXY" >
+    </ImageView>
+
+</RelativeLayout>
